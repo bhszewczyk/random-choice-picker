@@ -49,8 +49,9 @@ textarea {
 	display: inline-block;
 }
 
-.tag.highlight {
-	background-color: #b43718;
+.highlight {
+	background-color: #e9c46a;
+	color: #902c14;
 }
 
 .container {
