@@ -24,6 +24,8 @@ body {
 h3 {
 	color: #e9c46a;
 	margin: 1rem 0 2rem;
+	text-align: center;
+	font-size: 1.8rem;
 }
 
 textarea {
